@@ -71,25 +71,25 @@ headimg:
 #关注我
 follow:
   - class: fa-google-plus
-    url: 
+    url: http://runcy.github.io
   - class: fa-facebook
-    url: http://
+    url: http://runcy.github.io
   - class: fa-github
     url: http://github.com/runcy
   - class: fa-weibo
-    url: http://weibo.com/
+    url: http://runcy.github.io
   - class: fa-renren
-    url: 
+    url: http://runcy.github.io
   - class: fa-pinterest
-    url:
+    url:http://runcy.github.io
   - class: fa-twitter
-    url: 
+    url: http://runcy.github.io
   - class: fa-rss
-    url: 
+    url: http://runcy.github.io
 
 #作者信息
 author:
-  link: 
+  link: http://runcy.github.io
   img: 
 
 #评论信息
