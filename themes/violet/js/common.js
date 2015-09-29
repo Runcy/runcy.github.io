@@ -1,6 +1,6 @@
 /**
  * @desc:   公用js
- * @author: zhanxin.lin
+ * @author: cnm.lin
  * @depend: jQuery, jQuery scrollTo
  */
 $(document).ready(function() {
