@@ -1,6 +1,6 @@
 /**
  * @name:		index.js
- * @author: 	pizn(pizner@gmail.com)
+ * @author: 	cnm(cnm@gmail.com)
  * @desctions:  This is the js source for pizn.me's index.
  */
 $(document).ready(function() {
@@ -52,5 +52,5 @@ $(document).ready(function() {
     violet.selfPhoto();
     
     //show github Porject    
-    violet.getGitHub("pizn", "3", "#J_porject");
+    violet.getGitHub("runcy", "3", "#J_porject");
 });
